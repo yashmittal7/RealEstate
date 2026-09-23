@@ -545,10 +545,6 @@ Admin-specific management screens
 
 More robust AI recommendation scoring and evaluation
 
-Credits & Attribution
-
-This repository was assembled from an existing MERN real-estate codebase and subsequently adapted. Before redistributing or publishing substantial portions of the original source, retain any license notices and attribution required by the original repository and its dependencies.
-
 Author
 
 Yash Mittal
